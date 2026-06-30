@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local API and secrets
+.env
+.env.*
+api.local.json
+api.local.md
+*.local.json
+*.local.md
+
+# Runtime data
+uploads/
+data/inputs/
+data/outputs/
+data/manifests/
+data/reviews/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

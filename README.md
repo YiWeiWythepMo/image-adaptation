@@ -101,3 +101,12 @@ image-adaptation/
 ```
 
 The detailed behavior, hard constraints, prompt format, and validation rules are defined in [SKILL.md](SKILL.md).
+
+
+## Changelog
+
+### 2026-09-17
+
+- Added the project overview and supported ecommerce adaptation scenarios.
+- Documented the planning, editing, and validation workflow.
+- Added output contracts, an example request, installation guidance, and a sample image preview.
